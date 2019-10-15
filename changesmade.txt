@@ -1,0 +1,10 @@
+/home/zafar/ecommerce/templates/oscar/checkout/payment_details.html
+Converted from dummy page to CoD option (default selected)
+
+sudo apt install default-jre
+sudo apt install default-jdk
+sudo apt install curl
+curl -LO http://apachemirror.wuchna.com/lucene/solr/8.2.0/solr-8.2.0.tgz
+tar -C solr -xf solr-8.2.0.tgz --strip-components=1
+(ecommerce) zafar@ali:~/ecommerce$ cd solr
+(ecommerce) zafar@ali:~/ecommerce/solr$ ./bin/solr start
